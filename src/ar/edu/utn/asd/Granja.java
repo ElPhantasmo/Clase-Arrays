@@ -27,7 +27,7 @@ public class Granja  {
 		}
 		
 	}
-	
+	 
 	public void obtenerLeche() {
 		int i;
 		for ( i = 0; i < 5; i++) {

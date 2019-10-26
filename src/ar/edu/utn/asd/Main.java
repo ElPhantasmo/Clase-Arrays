@@ -9,7 +9,7 @@ public class Main {
 		miGranja.obtenerLeche();
 		miGranja.obtenerManteca();
 		miGranja.obtenerYoghurt();
-		
+		 
 	}
 
 }

@@ -9,7 +9,7 @@ public class Mantequero {
 	//Metodos
 	
 	public int hacerManteca(int leche) {
-		return 80;
+		return 80; 
 	}
 
 }

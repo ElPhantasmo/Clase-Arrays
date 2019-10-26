@@ -5,7 +5,7 @@ public class Yoghurtero {
 	//Atributos
 	
 	
-	//Metodos
+	//Metodos 
 	
 	public int hacerYoghurt(int leche) {
 		return 50;

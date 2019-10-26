@@ -5,6 +5,6 @@ public class Cabra extends Animal {
 	
 	//Metodo
 	public int darLeche () {
-		return 0;
+		return 0; 
 	}
 }
